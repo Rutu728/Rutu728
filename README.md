@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rutuja</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutu728&label=Profile%20views&color=0e75b6&style=flat" alt="rutu728" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutu728" alt="rutu728" /></a> </p>
 
 - 🔭 I’m currently working on **CRM**
@@ -27,6 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutu728&show_icons=true&locale=en" alt="rutu728" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutu728&" alt="rutu728" /></p>
+
 
 
 <!--
